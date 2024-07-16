@@ -2,4 +2,4 @@
 <h3>Check it out live :https://66963260588c7d4ae7bd8923--gentle-licorice-fe3569.netlify.app/
 </h3>
 Preview of My Portfolio Website:
-![Screenshot (134)](https://github.com/user-attachments/assets/e7889620-ee5a-4a7f-a71e-d895a8d83fc4)
+![image alt](https://github.com/ADITYAP2003/Portfolio-Website/blob/7ce66c775fc699624ff33af3dc26cf4ffe627ac8/Portfolio%20Website%20Preview.png)
