@@ -1,5 +1,5 @@
 <h1>Here is my Portfolio Website</h1>
-<h3>Check it out live :[https://66963260588c7d4ae7bd8923--gentle-licorice-fe3569.netlify.app/](https://66bb5ed9ab60232beb659af9--deluxe-lamington-7201e1.netlify.app/)
+<h3>Check it out live :https://66bb5ed9ab60232beb659af9--deluxe-lamington-7201e1.netlify.app/
 </h3>
 Preview of My Portfolio Website:
 
